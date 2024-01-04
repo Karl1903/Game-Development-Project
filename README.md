@@ -1,6 +1,12 @@
 # Orpheus
 
-Games-Praktikum/Adv. Game Dev. project of SS2022
+Games-Praktikum/Adv. Game Dev. project of SS2022 at the Meadia University Stuttgart.
+
+My Job was to lead the small team of four people to form the Graphics Department,
+provide the Art Style Decision, Concept Art, and work in Blender to realize and animate the Concepts.
+There was a team of appr. 23 students to work together from all over the world (Local and foreign Students)
+and the teams were formed into the Game Design Department, Engineering Departmend, Sound Department and the Graphics Department.
+There were plenty of collaboration Tools used like Jira, Confluence, Github, Discord and also meetings and presentations with Milestone Achievments.
 
 This README contains some important infos. For more information or tutorials look into the [Technical Design Document (TDD)](https://ca-confluence.hdm-stuttgart.de/pages/viewpage.action?pageId=283017246) and [Technical Design Document Graphics (TDDG)](https://ca-confluence.hdm-stuttgart.de/pages/viewpage.action?pageId=286687265)
 
