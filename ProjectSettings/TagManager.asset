@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SoundNotifier
+  - AI_Debug
+  - AI_Player
+  - AI_NPC
+  - AI_Door
+  - AI_Delimiter
+  - AI_IntermediatePoints
+  - AI_Stone
+  - AI_Environment
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - No Camera Collision
+  - Water
+  - UI
+  - AI Sound Raycast
+  - AI
+  - AI Border
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
