@@ -1,6 +1,6 @@
 # Orpheus
 
-Games-Praktikum/Adv. Game Dev. project of SS2022 at the Meadia University Stuttgart.
+Games-Praktikum/Advanced Game Development project of the Summer Semester 2022 at the Meadia University Stuttgart.
 
 My Job was to lead the small team of four people to form the Graphics Department,
 provide the Art Style Decision, Concept Art, and work in Blender to realize and animate the Concepts.
